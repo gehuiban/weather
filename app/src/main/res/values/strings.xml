@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="today">Today</string>
+    <string name="tomorrow">Tomorrow</string>
+    <string name="temp">%.0f°</string>
+    <string name="humidity_format">Humidity %.0f %%</string>
+    <string name="pressure_format">Pressure %.0f hPa</string>
+    <string name="wind_format">Wind %1$.0f M/h %2$s</string>
+
+</resources>

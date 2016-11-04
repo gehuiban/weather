@@ -1,0 +1,21 @@
+<resources>
+
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="FullTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="ListHeader" parent="TextAppearance.AppCompat.Headline">
+        <item name="android:textColor">@color/colorPrimaryDark</item>
+        <item name="android:paddingTop">@dimen/padding_half</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+</resources>
